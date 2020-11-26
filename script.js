@@ -29,7 +29,7 @@ const init = () => {
   currentScore = 0;
   activePlayer = 0;
   playing = true;
-  winCondition = 20;
+  winCondition = 100;
 };
 init();
 
